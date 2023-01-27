@@ -49,7 +49,7 @@ export const Articles = () => {
   return (
     <div className="container my-12 mx-auto px-4 md:px-12">
 <div className="flex space-x-2 justify-start">
-  <h2 className="text-3xl font-medium leading-tight text-white text-center  bg-red-400 px-5 py-3 rounded-lg ">
+  <h2 className="text-3xl font-medium leading-tight mb-3 text-white text-center  bg-red-400 px-5 py-3 rounded-lg ">
     Latest Articles
   </h2>
 </div>
